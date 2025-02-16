@@ -6,7 +6,7 @@ import Glasses from "../../img/glasses.png";
 import Humble from "../../img/humble.png";
 import { themeContext } from "../../Context";
 import { motion } from "framer-motion";
-import Resume from './resume.pdf';
+import Resume from './rarun cv.pdf';
 
 const Services = () => {
   // context
@@ -27,9 +27,15 @@ const Services = () => {
         <span style={{ color: darkMode ? "white" : "" }}>My Awesome</span>
         <span>services</span>
         <spane>
-          Lorem ispum is simpley dummy text of printing of printing Lorem
-          <br />
-          ispum is simpley dummy text of printing
+          <p>
+        With 1.5 years of experience in web design, video editing, and graphic design, 
+        I offer a diverse set of creative services to help bring your vision to life.
+        Whether you're a startup, a brand, or an individual, I’m here to provide professional and high-quality design solutions.
+        </p>
+        <br />
+        <p>
+          Here’s what I can do for you:
+          </p>
         </spane>
         <a href={Resume} download>
           <button className="button s-button">Download CV</button>
@@ -40,14 +46,14 @@ const Services = () => {
       <div className="cards">
         {/* first card */}
         <motion.div
-          initial={{ left: "25rem" }}
+          initial={{ left: "24rem" }}
           whileInView={{ left: "14rem" }}
           transition={transition}
         >
           <Card
             emoji={HeartEmoji}
             heading={"Design"}
-            detail={"Figma, Sketch, Photoshop, Adobe Illustrator, Adobe xd"}
+            detail={"Graphic Design,Photography,Canva,Corel Draw,Photoshop"}
           />
         </motion.div>
         {/* second card */}
@@ -58,8 +64,8 @@ const Services = () => {
         >
           <Card
             emoji={Glasses}
-            heading={"Developer"}
-            detail={"Html, Css, JavaScript, React, Nodejs, Express"}
+            heading={"Editing"}
+            detail={"Video Editing,Team Management,tally,Advance excel"}
           />
         </motion.div>
         {/* 3rd */}
@@ -70,9 +76,9 @@ const Services = () => {
         >
           <Card
             emoji={Humble}
-            heading={"UI/UX"}
+            heading={"BXB(Graphic Designer)"}
             detail={
-              "Lorem ispum dummy text are usually use in section where we need some random text"
+              "Develop or update the brand's logo, typography, color schemes, and other visual assets to ensure a consistent brand identity across all platforms."
             }
             color="rgba(252, 166, 31, 0.45)"
           />

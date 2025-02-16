@@ -15,22 +15,22 @@ const Testimonial = () => {
     {
       img: profilePic1,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "Working with Tarun was a pleasure from start to finish. He provided professional video editing services for our promotional campaign and was able to deliver exactly what we were looking for. He added creative touches that made the final product stand out and resonate with our target audience. Tarun’s communication and dedication to the project were top-notch -Diksha",
     },
     {
       img: profilePic2,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "Tarun’s graphic design skills are phenomenal. He designed our new logo and branding materials, and the results were exactly what we had hoped for—clean, modern, and instantly recognizable. The designs have helped elevate our brand and communicate our values clearly. We’re excited to have him as a long-term partner. -Sonam",
     },
     {
       img: profilePic3,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "I had the pleasure of working with Tarun on some promotional materials for our upcoming product launch. He was quick to respond to feedback, and his designs were fresh and innovative. The final product was perfect, and it helped us create the impact we needed. I highly recommend his graphic design services! -Sodhi" ,
     },
     {
       img: profilePic4,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "Tarun was a one-stop-shop for all our design needs. From designing our website logo, creating logo and branding, to editing our promotional videos—he did it all! We’ve worked with several designers and editors before, but Tarun’s creativity, professionalism, and dedication to quality are unmatched. -Deepak",
     },
   ];
 

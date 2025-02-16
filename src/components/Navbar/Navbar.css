@@ -24,7 +24,11 @@
   justify-content: flex-end;
   font-weight: 400;
 }
-
+.logo{
+  height:120px;
+  width:120px;
+  border-radius: 10px;
+}
 .n-list {
   flex: 10;
 }
@@ -47,4 +51,9 @@
   .n-list {
     display: none;
   }
+  .logo{
+    height:110px;
+    width:110px;
+    border-radius: 10px;
+}
 }

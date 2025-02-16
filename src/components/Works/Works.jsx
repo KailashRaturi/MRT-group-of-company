@@ -25,14 +25,19 @@ const Works = () => {
           </span>
           <span>Brands & Clients</span>
           <spane>
-            Lorem ispum is simpley dummy text of printing of printing Lorem
-            <br />
-            ispum is simpley dummy text of printingLorem ispum is simpley dummy
-            text
-            <br />
-            y dummy text of printingLorem
-            <br />
-            ispum is simpley dummy text of printing
+          With over 1.5 years of hands-on experience in Video Editing, and Graphic Design, I’ve had the privilege of collaborating with some amazing brands and clients across diverse industries.
+
+          Here’s a glimpse of the brands and clients I’ve worked with:
+
+              E-Commerce Brands: Designed A websites  logo and landing pages for retail businesses, improving conversion rates and enhancing user experiences.
+           Tech Innovators: Created sleek.<br />
+         Content Creators & Influencers: Delivered engaging video edits, promotional graphics, and social media content that helped boost visibility and engagement.
+        Small Businesses: Provided customized design solutions (logos, business cards, brochures) to help local businesses stand out in their market.  <br />
+         Through every project, I've gained valuable insights into various industries, and my mission remains the same: to help each client tell their unique story through design and content that resonates with their target audience.
+
+           "Thank You to the Amazing Brands and Clients Who Have Trusted Me!"
+            
+            
           </spane>
           <Link to="contact" smooth={true} spy={true}>
             <button className="button s-button">Hire Me</button>

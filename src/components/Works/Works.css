@@ -118,9 +118,17 @@
     height: 55rem;
     padding: 0;
     gap: 5rem;
+    
+    
   }
-
+  .awesome {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin-top:12rem;
+  }
   .w-right {
+   
     display: flex;
     align-items: flex-start;
     justify-content:start;

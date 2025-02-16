@@ -77,3 +77,34 @@
         height: 70px;
     }
   }
+
+  @media (max-width: 768px) {
+    .t-heading {
+      font-size: 1.5rem;
+    }
+  
+    .testimonial span {
+      font-size: 0.9rem; /* Reduce font size on smaller screens */
+      padding: 0 0.5rem; /* Reduce padding to prevent overflow */
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .t-wrapper{
+      margin-top:-1rem;
+      margin-bottom:-12rem;
+    }
+    .t-heading {
+      font-size: 1.2rem;
+    }
+  
+    .testimonial span {
+      font-size: 0.8rem; /* Even smaller font size for mobile screens */
+      padding: 0 0.5rem; /* Ensure no text overflows */
+    }
+  
+    .testimonial img {
+      width: 60px;
+      height: 60px;
+    }
+  }
