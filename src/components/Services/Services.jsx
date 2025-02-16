@@ -52,7 +52,7 @@ const Services = () => {
         >
           <Card
             emoji={HeartEmoji}
-            heading={"Design"}
+            heading={"Designer team"}
             detail={"Graphic Design,Photography,Canva,Corel Draw,Photoshop"}
           />
         </motion.div>
@@ -64,7 +64,7 @@ const Services = () => {
         >
           <Card
             emoji={Glasses}
-            heading={"Editing"}
+            heading={"Editing team"}
             detail={"Video Editing,Team Management,tally,Advance excel"}
           />
         </motion.div>

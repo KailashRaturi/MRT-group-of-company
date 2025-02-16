@@ -11,7 +11,7 @@ const Footer = () => {
       <img src={Wave} alt="" style={{ width: "100%" }} />
       <div className="f-content">
         <span>Mobile No:-9888945957</span>
-        <span>Gmail:-tk546929@gmail.co</span>
+        <span>Gmail:-tk546929@gmail.com</span>
         <div className="f-icons">
          <a href="https://www.instagram.com/king_of_mrt2024?igsh=OWZseHpjaDB3c2Ri" target="blank"> <Insta color="white" size={"3rem"} /></a>
          <a href="https://www.facebook.com/share/1DX8TCP4bJ/" target="blank"><Facebook color="white" size={"3rem"} /></a>
